@@ -1,0 +1,19 @@
+{
+    "name": "valehasadli/kafka",
+    "description": "Laravel Kafka Driver",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Valehasadli\\Kafka\\": "ValehAsadli/Kafka/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Valeh ASADLI",
+            "email": "valehasadli@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^7.6"
+    }
+}
