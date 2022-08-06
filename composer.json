@@ -9,7 +9,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "ValehAsadli\\kafka\\Tests": "tests/"
+            "ValehAsadli\\Kafka\\Tests\\": "tests/"
         }
     },
     "authors": [
