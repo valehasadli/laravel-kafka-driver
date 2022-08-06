@@ -4,7 +4,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Valehasadli\\Kafka\\": "ValehAsadli/Kafka/"
+            "ValehAsadli\\Kafka\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ValehAsadli\\kafka\\Tests": "tests/"
         }
     },
     "authors": [
